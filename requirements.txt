@@ -1,0 +1,5 @@
+whisper
+moviepy
+scenedetect
+torch
+open_clip_torch
