@@ -1,5 +1,13 @@
-whisper
-moviepy
-scenedetect
 torch
+openai-whisper
+moviepy==1.0.3
+scenedetect
+opencv-python
 open_clip_torch
+numpy
+tqdm
+requests
+python-dotenv
+imageio
+imageio-ffmpeg
+pillow
